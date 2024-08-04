@@ -27,7 +27,7 @@ def get_response(query):
 # Streamlit application
 if __name__ == "__main__":
     st.set_page_config(
-        page_title="Llama3.1 Utkarsh", 
+        page_title="Llama3.1 Payal Aggarwal", 
         page_icon="💬"
     )
     st.title("Llama3.1 with Groq😊🙌 - Payal Aggarwal")
